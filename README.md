@@ -20,6 +20,6 @@ Made a Dataset in Big Query and split the data into 3 parts
 - Used Tensorflow AI notebook instace to connect to the bigquery client and get the data 
 - Build a 3 layer kearas deep learning model 
 
-# Results
+## Results
 
 [1.8711000787477399, 0.998804, 0.3272799]
